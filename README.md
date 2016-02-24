@@ -1,3 +1,3 @@
 # Lab_Wiki
 
-This repository houses the [lab wiki](https://github.com/WhiteheadLab/Lab_Wiki/wiki/Whitehead-Lab-Wiki)
+This repository houses the [lab wiki](https://github.com/WhiteheadLab/Lab_Wiki/wiki)
