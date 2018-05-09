@@ -1,7 +1,7 @@
 Bioinformatics learning resources for undergrads and grad students
 ================
 
-[Bioinformatics analysis skills are in high demand across biological research fields right now](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbx100/4096809). Generally, undergratuate curriculum does not introduce these skills. Graduate students need to learn thse skills. [There are solutions!](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303) We have training opportunities, especially here at UC Davis! Undergradates who already have these skills will be in high demand in both graduate programs and jobs.
+[Bioinformatics analysis skills are necessary across biological research fields right now](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbx100/4096809). Generally, undergratuate curriculum does not introduce these skills. Graduate students need to learn thse skills. [There are solutions!](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303) We have training opportunities, especially here at UC Davis! Undergradates who already have these skills will be in high demand in both graduate programs and jobs.
 
 [There's a trifecta of skills that bioinformaticians or researchers using bioinformatics skills to analyze nucleic acid sequencing data typically learn](http://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1000589):
 
@@ -23,5 +23,5 @@ Here are a list of resources to try on your own. I'm happy to provide help and a
 4. [Commandline bootcamp](http://rik.smith-unna.com/command_line_bootcamp/): I see this as the first step for learning skills. If you can get through these 28 lessons, you have the beginning base of skills for how to navigate the commandline.
 5. [R course at UCD, GGE course](https://gge-ucd.github.io/R-DAVIS/syllabus.html)
 6. [semester-long bioninfo course at UF](http://www.datacarpentry.org/semester-biology/syllabus/)
-7. [Introduction to R](https://mikoontz.github.io/data-carpentry-week/), 1 week intro R course taught by Michael Koontz and Ryan Peet at DIBSI, 2017
+7. [Introduction to R](https://mikoontz.github.io/data-carpentry-week/), 1 week intro R course taught by Michael Koontz and Ryan Peek at DIBSI, 2017
 8. [DIB training program at UCD](http://dib-training.readthedocs.io/en/pub/)
