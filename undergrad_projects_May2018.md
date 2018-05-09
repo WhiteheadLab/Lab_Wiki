@@ -15,7 +15,7 @@ Projects:
     * [Lisa's gene expression analyses](https://github.com/ljcohen/RNAseq_15killifish)
     * Others?
 
-2. **[Bioinformatics programming](https://hackmd.io/85dqRATrT_-vul_svGZzCQ):** Work with Lisa on solving problems and going through tutorials related to bioinformatics. Some of these exercises are short. They can be completed on your own computer when there is free time from other projects. Some level of independence and initiative is necessary to work through these exercises on your own, send updates, ask questions/engage in discussion. Ask questions!
+2. **[Bioinformatics programming](https://github.com/WhiteheadLab/Lab_Wiki/blob/master/bioinformatics_programming.md):** Work with Lisa on solving problems and going through tutorials related to bioinformatics. Some of these exercises are short. They can be completed on your own computer when there is free time from other projects. Some level of independence and initiative is necessary to work through these exercises on your own, send updates, ask questions/engage in discussion. Ask questions!
 
 3. **Abalone Comparative Physiology** - Research Questions:
     A. Does parental diet conditioning affect offspring during senstive developmental time points? Does parental diet buffer against ocean acidification conditions during sensitive time points? 80 broodstock  sourced from The Cultured Abalone Farm (Goleta, CA) were sexed, gonads scored and split into two diet treatments in December 2017 - red algae (Dulse - high protein content) and brown algae (Giant Kelp - high carbohdrate content. We hypothesize offspring generated from broodstock fed high protein content will be more tolerant to low pH conditions due to higher quality nutrient partitioning during gametogenesis. 
